@@ -1,7 +1,4 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeki999&show_icons=true&locale=en&layout=compact" alt="xeki999" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeki999&show_icons=true&locale=en" alt="xeki999" /></p>
 
 
-
-| `onedark` ![onedark][onedark] | `cobalt` ![cobalt][cobalt] | `synthwave` ![synthwave][synthwave] |
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
